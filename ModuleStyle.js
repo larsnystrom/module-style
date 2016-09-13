@@ -7,8 +7,8 @@ var ModuleStyle = React.createClass({
   displayName: 'ModuleStyle',
 
   propTypes: {
-    style: PropTypes.array.isRequired,
-    children: PropTypes.element,
+    style: React.PropTypes.array.isRequired,
+    children: React.PropTypes.element,
   },
 
   render: function render() {
