@@ -1,0 +1,22 @@
+{
+  "name": "module-style",
+  "version": "0.1.0",
+  "description": "Declarative way to specify module-css with React.",
+  "main": "ModuleStyle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/larsnystrom/module-style.git"
+  },
+  "author": "Lars Nyström <nystrom.lars.egon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsnystrom/module-style/issues"
+  },
+  "homepage": "https://github.com/larsnystrom/module-style#readme",
+  "dependencies": {
+    "react-side-effect": "^1.0.2"
+  }
+}
